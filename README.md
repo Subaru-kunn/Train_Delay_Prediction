@@ -1,6 +1,6 @@
 # Train Delay Prediction Project 
 ## 📌 Overview <br>
-This project aims to build a machine learning model that predicts train delays based on real world data. The prediction is made on the basis of several coulmns present in the csv file. The csv file contains 21 columns including TRAIN_NUMBER, ID_TRAIN_DEF, TRAIN_TYPE, TRAIN_SUB_TYPE .... ALWNC, DISTANCE, NEXT_DELAY. 
+This project aims to build a machine learning model that predicts train delays based on real world data. The prediction is made on the basis of several coulmns present in the csv file. The csv file contains 23 columns including TRAIN_NUMBER, ID_TRAIN_DEF, TRAIN_TYPE, TRAIN_SUB_TYPE .... ALWNC, DISTANCE, NEXT_DELAY. 
 
 Multiple machine learning models were used including:
 - **Random Forest Regressor**
