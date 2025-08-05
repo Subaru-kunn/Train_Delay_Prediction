@@ -7,4 +7,4 @@ Multiple machine learning models were used including:
 - **XGBoost Regressor**
 - **LightGBM Regressor**
 
-To enhance prediction accuracy, we implemented a stacked ensemble model that combines predictions from RandomForest, XGBoost and LightGBM, using an **MLPRegressor** as the meta-model. This stacking approach enables the model to generalize better by leveraging the strengths of multiple learners. Few visual aids like graphs and confusion matrix have also been created to show the results.
+To enhance prediction accuracy, I implemented a stacked ensemble model that combines predictions from RandomForest, XGBoost and LightGBM, using an **MLPRegressor** as the meta-model. This stacking approach enables the model to generalize better by leveraging the strengths of multiple learners. Few visual aids like graphs and confusion matrix have also been created to show the results.
